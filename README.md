@@ -12,6 +12,9 @@ Customer Segmentation requires managers to:
 
 -Divide the market into meaningful and measurable segments according to customers' needs, their past behaviors or their demographic profiles
 -Determine the profit potential of each segment by analyzing the revenue and cost impacts of serving each segment
+
 -Target segments according to their profit potential and the company's ability to serve them in a proprietary way
+
 -Invest resources to tailor product, service, marketing and distribution programs to match the needs of each target segment
+
 -Measure performance of each segment and adjust the segmentation approach over time as market conditions change decision making throughout the organization
